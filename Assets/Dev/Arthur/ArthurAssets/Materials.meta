@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 1424b8f7dc330b942af9fcebfbe38702
+=======
+<<<<<<< HEAD:Assets/Dev/Arthur/ArthurAssets.meta
+guid: 8eae75fd78b5fad469f5dfb6c76c91cf
+=======
+guid: 1424b8f7dc330b942af9fcebfbe38702
+>>>>>>> upstream/main:Assets/Dev/Arthur/ArthurAssets/Materials.meta
+>>>>>>> upstream/main
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
