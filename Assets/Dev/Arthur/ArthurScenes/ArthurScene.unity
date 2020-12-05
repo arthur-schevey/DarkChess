@@ -402,75 +402,75 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &2015499607
+--- !u!1001 &908995846305433790
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 100002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
-      propertyPath: m_Name
-      value: BlobLightProjector
-      objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.27
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalPosition.y
       value: 13.68
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.38
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalRotation.x
       value: 0.7071068
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.7071067
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400002, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+    - target: {fileID: 908995844294002539, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 11900000, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
-      propertyPath: m_Orthographic
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 11900000, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
-      propertyPath: m_OrthographicSize
-      value: 5.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 11900000, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
-      propertyPath: m_IgnoreLayers.m_Bits
-      value: 0
+    - target: {fileID: 908995844294105931, guid: 6ae58333a61ec834cb4361bf62455b8a,
+        type: 3}
+      propertyPath: m_Name
+      value: BlobLightProjector
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 21543d2b66928224f8a9536ff3811682, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 6ae58333a61ec834cb4361bf62455b8a, type: 3}
 --- !u!1001 &2305317908549404941
 PrefabInstance:
   m_ObjectHideFlags: 0
